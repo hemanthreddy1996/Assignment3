@@ -1,0 +1,15 @@
+Codd Server links:
+Part 1:
+http://codd.cs.gsu.edu/~hmalireddy1/Assignment3/part1.php
+
+Part 2:
+http://codd.cs.gsu.edu/~hmalireddy1/Assignment3/part2.php
+
+Part 3:
+http://codd.cs.gsu.edu/~hmalireddy1/Assignment3/part3.php
+
+Part 4:
+http://codd.cs.gsu.edu/~hmalireddy1/Assignment3/part4.php
+
+GitHub Link:
+https://github.com/hemanthreddy1996/Assignment3
